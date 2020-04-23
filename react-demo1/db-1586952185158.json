@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "id": 2,
+      "name": "Parth Halani",
+      "gender": "Male",
+      "email": "parthhalani05@gmail.com",
+      "phone": "+919421727746",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT9pHf6WW0upc64ZJeYg9XBpDMubvMQfnvUOYf4fm4QMZMtvkTu"
+    },
+    {
+      "id": 3,
+      "name": "Parth Halani",
+      "gender": "Male",
+      "email": "parthhalani05@gmail.com",
+      "phone": "+919421727746",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT9pHf6WW0upc64ZJeYg9XBpDMubvMQfnvUOYf4fm4QMZMtvkTu"
+    },
+    {
+      "id": 4,
+      "name": "Parth Halani",
+      "gender": "Male",
+      "email": "parthhalani05@gmail.com",
+      "phone": "+919421727746",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT9pHf6WW0upc64ZJeYg9XBpDMubvMQfnvUOYf4fm4QMZMtvkTu"
+    }
+  ]
+}
